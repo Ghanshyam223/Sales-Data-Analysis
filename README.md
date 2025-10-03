@@ -35,6 +35,7 @@ A small percentage of customers (top spenders) contribute a large share of total
 
 Indicates potential for loyalty programs or personalized offers to retain these high-value customers.
 
+
 **Business Strategies**
 
 Target Marketing
