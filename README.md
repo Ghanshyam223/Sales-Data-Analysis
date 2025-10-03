@@ -1,4 +1,9 @@
-# Sales-Data-Analysis
+# Black Friday Sales Data Analysis
+
+**Project Overview**
+
+This project analyzes the Black Friday dataset (from Kaggle) containing sales transactions of retail customers.
+The goal is to perform exploratory data analysis (EDA) and uncover insights about customer demographics, product preferences, and purchasing behavior.
 
 **Key Insights**
 1. Customer Demographics
